@@ -6,7 +6,6 @@ SoftwareSerial gsm(7, 8);
 
 // GPS module on hardware Serial (pins 0,1)
 TinyGPSPlus gps;
-
 // Pins
 const int buzzer = 9;
 const int button = 2;
