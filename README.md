@@ -1,7 +1,6 @@
 # Women's Safety Band
 
 A smart wearable device that enhances women's safety by sending instant SOS alerts with GPS location. Developed using Arduino, C/C++, and IoT technologies.
-
 ## Features
 - SOS button for emergencies
 - Real-time GPS tracking
